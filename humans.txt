@@ -1,0 +1,19 @@
+/* TEAM */
+
+Site: http://matthew.wagerfield.com
+Developer & Designer: Matthew Wagerfield
+Location: Space
+Twitter: @mwagerfield
+Dribbble: @wagerfield
+Behance:  @wagerfield
+GitHub:   @wagerfield
+CodePen:  @wagerfield
+Vimeo:    @wagerfield
+LinkedIn: @wagerfield
+
+/* SITE */
+
+Last Update: 2014/05/06
+Standards: HTML5, CSS3
+Components: FastClick
+Software: Sublime Text 3, Node, Bower, Gulp
